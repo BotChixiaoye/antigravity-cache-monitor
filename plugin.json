@@ -1,0 +1,7 @@
+{
+  "name": "cache-hit-monitor",
+  "displayName": "Cache Hit Monitor",
+  "description": "极简右侧边栏 Prompt Cache 缓存命中率与上下文水位监控面板（基于 MCP App，实时读取本地会话日志）。",
+  "version": "0.3.0",
+  "logo": "assets/logo.svg"
+}

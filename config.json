@@ -1,0 +1,13 @@
+{
+  "geminiContextWindows": [
+    { "prefix": "gemini-4-neon", "limit": 512000 },
+    { "prefix": "gemini-4-carbon", "limit": 1000000 },
+    { "prefix": "gemini-4-argon", "limit": 1000000 },
+    { "prefix": "gemini-4-hydrogen", "limit": 1000000 },
+    { "prefix": "gemini-3", "limit": 1000000 },
+    { "prefix": "gemini-2.5", "limit": 1000000 }
+  ],
+  "cacheDropThreshold": 0.5,
+  "cacheExpiryGapSeconds": 300,
+  "contextWarnRatio": 0.75
+}

@@ -1,0 +1,11 @@
+{
+  "cache-hit-monitor": {
+    "PostInvocation": [
+      {
+        "type": "command",
+        "command": "python3 ./scripts/track_active.py",
+        "timeout": 5
+      }
+    ]
+  }
+}
